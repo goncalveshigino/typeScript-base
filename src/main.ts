@@ -1,5 +1,5 @@
 import './style.css'
-import './topic/05-basic-destructuring'
+import './topic/06-function-destructuring'
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
  Hello Word

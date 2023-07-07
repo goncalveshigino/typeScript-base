@@ -31,10 +31,13 @@ const { song: anotherSong, songDuration: duration, details } = audioPlayer;
 
 
 
-console.log('Song: ', anotherSong, 'Duracao: ', duration, 'Author: ', author )
+ const [ , , trunks]: string[] = ['Goku','Vegeta','Trunks'];
+
+ console.error('Personagem 3:' , trunks )
 
 
 
+// console.log('Song: ', anotherSong, 'Duracao: ', duration, 'Author: ', author )
 
 
 
