@@ -1,5 +1,5 @@
 import './style.css'
-import './topic/08-classes'
+import './topic/09-generics'
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
  Hello Word
